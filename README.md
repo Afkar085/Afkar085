@@ -1,21 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Afkar%20Kolkar&fontSize=42&fontColor=fff&fontAlignY=38&desc=Mathematics%20%26%20Computing%20%7C%20MIT%20Manipal%20%7C%20Class%20of%202027&descAlignY=58&descSize=16" width="100%"/>
+# Mohammed Afkar Kolkar
 
-</div>
+### Mathematics & Computing · MIT Manipal · Class of 2027
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Data+%7C+Systems+%7C+Machine+Learning;Turning+Math+into+Working+Software;Open+to+Internships+%E2%80%94+Let%27s+Talk)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Data+%7C+Systems+%7C+Machine+Learning;Turning+Math+into+Working+Software;Open+to+Internships+%E2%80%94+Let%27s+Talk)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-afkar-kolkar)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afkarkolkar@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Afkar085)
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Afkar085&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Afkar085&style=for-the-badge&color=6E57F7&label=PROFILE+VIEWS)
 
 </div>
 
@@ -157,6 +153,6 @@ IDA* on 100×100 grid — optimal paths, fraction of A*'s memory. Integrated int
 
 **afkarkolkar@gmail.com**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+![](https://img.shields.io/badge/afkarkolkar%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)
 
 </div>
