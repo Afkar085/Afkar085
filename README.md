@@ -96,6 +96,8 @@ Normalized schema + PL/pgSQL triggers for expiry detection. Java-JDBC backend fo
 
 IDA* on 100×100 grid — optimal paths, fraction of A*'s memory. Integrated into ROS 2 Nav2, tested on TurtleBot3 & Unitree Go2. Visualized in RViz2.
 
+[→ View Repo](https://github.com/Afkar085/IDAstar)
+
 </td>
 <td width="50%" valign="top">
 
@@ -123,16 +125,6 @@ IDA* on 100×100 grid — optimal paths, fraction of A*'s memory. Integrated int
 <div align="center">
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afkar085&theme=tokyonight&hide_border=true&layout=compact"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Afkar085&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6"/>
 
 </div>
 
