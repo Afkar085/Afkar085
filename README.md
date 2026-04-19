@@ -145,6 +145,5 @@ IDA* on 100×100 grid — optimal paths, fraction of A*'s memory. Integrated int
 
 **afkarkolkar@gmail.com**
 
-![](https://img.shields.io/badge/afkarkolkar%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)
 
 </div>
